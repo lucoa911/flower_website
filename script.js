@@ -10,7 +10,7 @@ function showPeckPage() {
   // If the user clicks "Yes", show the happy image.
   function peckYes() {
     document.body.innerHTML = `
-      <h1>💋 Mwah! THANK YOU LIL NIGGA </h1>
+      <h1>💋 Mwah! THANK YOU LIL NIGGER </h1>
       <img src="happy.png" alt="Happy Image" width="250">
     `;
   }
