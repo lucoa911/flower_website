@@ -19,7 +19,7 @@ function showPeckPage() {
   function peckNo() {
     document.body.innerHTML = `
       <h1>Think again... 🤔</h1>
-      <img src="cry.png" alt="Sad Image" width="250">
+      <img src="cry.png" alt="Cry Image" width="250">
       <br>
       <button onclick="peckYes()">Yes</button>
       <button id="movingNo" onclick="activateMovingNo()">No</button>
@@ -31,7 +31,7 @@ function showPeckPage() {
     // Recreate the layout with a moving "No" button
     document.body.innerHTML = `
       <h1>Think again... 🤔</h1>
-      <img src="cry.png" alt="Sad Image" width="250">
+      <img src="cry.png" alt="Cry Image" width="250">
       <br>
       <button onclick="peckYes()">Yes</button>
       <button id="movingNo" onmouseover="moveNo()">No</button>
